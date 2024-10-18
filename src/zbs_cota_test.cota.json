@@ -1,11 +1,18 @@
 {
   "formatVersion": "1",
   "header": {
-    "description": "",
+    "description": "cota example",
     "originalLanguage": "en"
   },
   "configuration": {
-    "communicationType": "",
-    "multitenancyMode": ""
+    "communicationType": "rfc",
+    "communicationTargetClass": "ZBS_COTA_TEST",
+    "multitenancyMode": "crossClient"
+  },
+  "httpSettings": {
+    "pathPrefix": "test prefix"
+  },
+  "rfcSettings": {
+    "enforceSapGuiSupport": true
   }
 }
