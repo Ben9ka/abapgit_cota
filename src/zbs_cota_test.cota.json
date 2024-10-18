@@ -5,12 +5,11 @@
     "originalLanguage": "en"
   },
   "configuration": {
-    "communicationType": "rfc",
     "communicationTargetClass": "ZBS_COTA_TEST",
     "multitenancyMode": "crossClient"
   },
   "httpSettings": {
-    "pathPrefix": "test prefix"
+    "pathPrefix": "test test"
   },
   "rfcSettings": {
     "enforceSapGuiSupport": true
