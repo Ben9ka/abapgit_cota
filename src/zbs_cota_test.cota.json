@@ -5,8 +5,7 @@
     "originalLanguage": "en"
   },
   "configuration": {
-    "communicationTargetClass": "ZBS_COTA_TEST",
-    "multitenancyMode": "crossClient"
+    "communicationTargetClass": "ZBS_COTA_TEST"
   },
   "httpSettings": {
     "pathPrefix": "test test"
