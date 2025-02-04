@@ -4,6 +4,7 @@
   <asx:values>
    <DEVC>
     <CTEXT>test cota for abapgit</CTEXT>
+    <PACKKIND>5</PACKKIND>
    </DEVC>
   </asx:values>
  </asx:abap>
